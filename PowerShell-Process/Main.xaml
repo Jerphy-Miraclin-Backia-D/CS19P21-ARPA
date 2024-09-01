@@ -92,7 +92,6 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:Comment sap:VirtualizedContainerService.HintSize="354,135.33333333333334" sap2010:WorkflowViewState.IdRef="Comment_1" Text="Name : Jerphy Miraclin Backia D&#xD;&#xA;&#xD;&#xA;Reg No : 210701096" />
     <ui:Comment sap:VirtualizedContainerService.HintSize="450,136" sap2010:WorkflowViewState.IdRef="Comment_1" Text="Name: Jerphy Miraclin Backia D&#xA;&#xA;Reg No: 210701096" />
     <ui:InvokePowerShell x:TypeArguments="sd:Process" ContinueOnError="{x:Null}" CommandText="Get-Process" DisplayName="Invoke Power Shell" sap:VirtualizedContainerService.HintSize="450,120.66666666666667" sap2010:WorkflowViewState.IdRef="InvokePowerShell`1_6" Output="[CollectionProcess]" PowerShellProcess="PowerShellCore">
       <ui:InvokePowerShell.Parameters>
